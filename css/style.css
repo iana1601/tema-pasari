@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    background-image: url("../images/eichelhaeher--a380867917.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+header{
+    height:80px;
+    background-color: rgba(0, 0, 255, 0.504);
+    padding-top: 25px;
+}
+h1{
+    margin: 0;
+    text-align: center;
+}
+main{
+   min-height: 493px;
+}
+h3{
+    padding-left: 650px;
+}
+img{
+    height: 100px;
+}
+footer{
+    height: 130px;
+    background-color: rgba(0, 0, 255, 0.505);
+    font-size: 24px;
+    text-align: center;
+    padding-top: 50px;
+}
